@@ -12,7 +12,7 @@ The code creates has a Match3Engine namespace that creates a grid and elements w
   
 The code below creates a grid using the Match3Engine
 
-  void CreateGrid ()
+    void CreateGrid ()
     {
         GridParent = GameObject.Find("Game");
         GameObject RSpace = background;//
