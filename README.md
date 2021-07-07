@@ -11,6 +11,7 @@ The code creates has a Match3Engine namespace that creates a grid and elements w
   using Match3Engine; 
   
 The code below creates a grid using the Match3Engine
+
   void CreateGrid ()
     {
         GridParent = GameObject.Find("Game");
